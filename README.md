@@ -1,4 +1,4 @@
-# kurat420 NOPIXEL DOORS SYSTEM (NPframework)
+# tw1st0R NOPIXEL DOORS SYSTEM (NPframework)
 <br>Improved off of the newest Inspired NoPixel Doors Script. Written in .lua <br>
 Runs at ~ 0.00 to 0.01 ms if you have more optimization suggestions feel free to reach out
 
