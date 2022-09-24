@@ -5,7 +5,7 @@ Runs at ~ 0.00 to 0.01 ms if you have more optimization suggestions feel free to
 # Follow me in my Social Networks
 * [YOUTUBE](https://www.youtube.com/channel/UChRcrcs1EZna4hGIn1KD3cw)
 * [TWITCH](https://www.twitch.tv/tw1st0R_)
-* [GitHub Profile](https://github.com/kurat420)
+* [GitHub Profile](https://github.com/twist0R)
 
 # Installation
 * **Recommend to change "k20-ui" to "np-ui"**
