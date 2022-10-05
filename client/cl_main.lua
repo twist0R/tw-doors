@@ -219,3 +219,5 @@ AddEventHandler("k20-polyzone:exit", function(zone)
         currentZone = nil
     end
 end)
+
+-- made with love
